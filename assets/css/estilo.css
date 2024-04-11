@@ -1,16 +1,7 @@
-.filaColumna {
-    background-color:lightblue;
-}
-
-.fondoMainHeader {
-    background-color: rgb(180, 180, 180);
-}
-
-.colEstudios {
-    background-color: lightblue;
-}
-
 #links {
     color: purple;
     font-size: 24px;
+}
+.laboral {
+    margin-bottom: 1%;
 }
